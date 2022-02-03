@@ -1,11 +1,17 @@
 {
-    "dependencies": {
-        "node-telegram-bot-api": "^0.56.0"
-    },
-    "scripts": {
-        "start": "nodemon index"
-    },
-    "devDependencies": {
-        "nodemon": "^2.0.15"
-    }
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "first-telegram-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anvarjon Solijonov",
+  "license": "ISC",
+  "description": ""
 }
